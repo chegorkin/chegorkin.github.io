@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+           {
+            "appID": "com.l3mtechnologies.unilinks",
+            "paths": [ "/zzz/*" ]
+           }
+       ]
+   }
+}
