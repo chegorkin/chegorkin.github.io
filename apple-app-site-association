@@ -5,50 +5,43 @@
       {
         "appID": "co.bianu.production",
         "paths": [
-          "/",
-          "*"
+          "/app/*"
         ]
       },
       {
         "appID": "co.bianu.beta",
         "paths": [
-          "/",
-          "*"
+          "/app/*"
         ]
       },
       {
         "appID": "co.bianu.dev",
         "paths": [
-          "/",
-          "*"
+          "/app/*"
         ]
       },
       {
         "appID": "com.l3mtechnologies.Bianu",
         "paths": [
-          "/",
-          "*"
+          "/app/*"
         ]
       },
       {
         "appID": "com.l3mtechnologies.Bianu.beta",
         "paths": [
-          "/",
-          "*"
+          "/app/*"
         ]
       },
       {
         "appID": "com.l3mtechnologies.Bianu.dev",
         "paths": [
-          "/",
-          "*"
+          "/app/*"
         ]
       },
       {
         "appID": "com.l3mtechnologies.unilinks",
         "paths": [
-          "/",
-          "*"
+          "/app/*"
         ]
       }
     ]
