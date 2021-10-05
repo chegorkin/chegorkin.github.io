@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "com.l3mtechnologies.Bianu",
+          "com.l3mtechnologies.Bianu.beta",
+          "com.l3mtechnologies.Bianu.dev",
+          "com.l3mtechnologies.unilinks"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "?": { "source": "mvpbox" }
+          }  
+        ]
+      }
+    ]
+  }
+}
