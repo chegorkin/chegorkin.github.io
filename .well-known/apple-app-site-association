@@ -10,7 +10,7 @@
         ],
         "components": [
           {
-            "/": "/*",
+            "/": "/app/*",
             "?": { "source": "mvpbox" }
           }  
         ]
